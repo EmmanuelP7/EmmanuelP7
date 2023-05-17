@@ -2,8 +2,8 @@
 (Emmanuel Pérez Mendoza)
 
 - 👀 I’m interested in Web and mobile apps development, IoT
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript and kotlin
+<!--- - 💞️ I’m looking to collaborate on ...  --->
 - 📫 You can contact me by:
             E-mail:     emmanuel.perez.777@hotmail.com
             LinkedIn:   www.linkedin.com/in/emmanuel-pm
